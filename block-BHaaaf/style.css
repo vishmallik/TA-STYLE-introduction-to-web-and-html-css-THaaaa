@@ -1,0 +1,11 @@
+.Heading {
+    color: rgb(165, 42, 48);
+    font-size: 100px;
+}
+#content {
+    color:gold;
+    font-size: 25px;
+}
+body {
+    background-color: rgb(0, 130, 87);
+}
