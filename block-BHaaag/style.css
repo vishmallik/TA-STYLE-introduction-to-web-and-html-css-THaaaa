@@ -1,0 +1,20 @@
+address {color:aliceblue;
+    font-size:20px;
+padding-bottom: 30px;}
+body {
+    background-color: rgb(22, 17, 94);
+text-shadow: 10px;}
+h2 {color: rgb(26, 172, 82);
+font-size: 40px;}
+h1 {
+    color: aliceblue;
+font-size: 55px;}
+div,p{font-size: 20px; 
+    color:aliceblue;}
+h3 {
+    font-size: 25px;
+    color:aliceblue;
+}
+a { color:rgb(212, 31, 100);
+    padding-right: 20px;
+font-size: 20px;}
